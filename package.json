@@ -5,7 +5,6 @@
     "type": "git",
     "url": "https://github.com/goughjo03/Svelte-Custom-Element-Example-1"
   },
-  "private": true,
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
