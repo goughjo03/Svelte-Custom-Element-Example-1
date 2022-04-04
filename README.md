@@ -1,3 +1,18 @@
+To use this web component you just need to include the built script in a script tag like this, for example:
+
+```html
+<html>
+    <head>
+        <script src="public/build/bundle.js"></script>
+    </head>
+    <body>
+        <my-custom-element name="hello world" id="test123"></my-custom-element>
+    </body>
+</html>
+```
+
+## OLD README BELOW HERE
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
